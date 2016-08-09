@@ -1,0 +1,28 @@
+name: Leah Buckareff
+favicon: null
+layout_spectrum: 0.9780069703701884
+typography_spectrum: 0.523413942893967
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2969544902443886
+  lightness: 0.1758308708667755
+  saturation: 0.2429897040128708
+  rhythmicContrast: 0.9950307090766728
+purpose: []
